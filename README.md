@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👑 I'm Łukasz (FruGosky) Komandzik - *Frontend React Developer* 💼
 
-<!--
-**FruGosky/FruGosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Currently pursuing my second cycle of studies in Information and Communication Technology at WSB Merito University.
 
-Here are some ideas to get you started:
+## 😄 Technologies I'm proficient in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ React
+- ✅ JavaScript (JS) / TypeScript (TS)
+- ✅ CSS / SCSS / Tailwind CSS
+- ✅ Git
+- ✅ Responsive Web Design (RWD)
+
+## 🤔 Technologies I'm currently mastering:
+
+- ❌ Next.js
+- ❌ trpc
+- ❌ Prisma
+- ❌ Java Spring Boot
+
+💬 Feel free to reach out to me at lukaszkomandzik@gmail.com
