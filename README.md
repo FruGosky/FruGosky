@@ -5,10 +5,10 @@ Currently pursuing my second cycle of studies in Information and Communication T
 ## 😄 Technologies I'm proficient in:
 
 - ✅ React
-- ✅ JavaScript (JS) / TypeScript (TS)
-- ✅ CSS / SCSS / Tailwind CSS
+- ✅ TypeScript
+- ✅ Tailwind
 - ✅ Git
-- ✅ Responsive Web Design (RWD)
+- ✅ UI Libraries
 
 ## 🤔 Technologies I'm currently mastering:
 
